@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\Ambiente de desenvolvimento\Java EE\SistemaAcademicoWeb\.metadata\.plugins\org.eclipse.jdt.core
+2588607135.index
+1067094681.index
